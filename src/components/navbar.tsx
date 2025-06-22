@@ -10,17 +10,17 @@ export default function Navbar() {
       </Link>
       <ul className="flex gap-6">
         <li>
-          <Link href="/hakkimizda" className="text-white-700 hover:text-green-300">
+          <Link href="/hakkimizda" className="text-white hover:text-green-300">
             Hakkımızda
           </Link>
         </li>
         <li>
-          <Link href="/ozellikler" className="text-white-700 hover:text-green-300">
+          <Link href="/ozellikler" className="text-white hover:text-green-300">
             Özellikler
           </Link>
         </li>
         <li>
-          <Link href="/iletisim" className="text-white-700 hover:text-green-300">
+          <Link href="/iletisim" className="text-white hover:text-green-300">
             İletişim
           </Link>
         </li>
