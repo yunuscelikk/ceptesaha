@@ -23,7 +23,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-4 mt-6">
             {/* App Store */}
             <a
-              href="#"
+              href="https://apps.apple.com/tr/app/ceptesaha/id6747271295"
               style={{ fontFamily: "SFPro" }}
               className="inline-flex items-center gap-x-2 px-6 py-3 bg-white text-black shadow-md text-base md:text-lg font-thin rounded-xl hover:opacity-70 transition"
             >
